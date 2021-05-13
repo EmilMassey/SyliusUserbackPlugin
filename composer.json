@@ -1,7 +1,7 @@
 {
     "name": "empressia/sylius-userback-plugin",
     "type": "sylius-plugin",
-    "description": "Acme example plugin for Sylius.",
+    "description": "The plugin allows you to inject Userback widget to your Store so your Users can give you a feedback on their experience.",
     "authors": [
         {
             "name": "Emil Masiakowski",
