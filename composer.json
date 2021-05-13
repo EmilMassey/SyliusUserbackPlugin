@@ -1,6 +1,5 @@
 {
     "name": "empressia/sylius-userback-plugin",
-    "version": "1.0.0",
     "type": "sylius-plugin",
     "description": "Acme example plugin for Sylius.",
     "authors": [
