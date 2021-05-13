@@ -1,0 +1,8 @@
+sylius_ui:
+  events:
+    sylius.shop.layout.head:
+      blocks:
+        userback_widget:
+          template: "@EmpressiaSyliusUserbackPlugin/widget.html.twig"
+          context:
+            event: sylius.shop.layout.head

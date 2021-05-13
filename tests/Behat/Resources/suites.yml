@@ -1,0 +1,8 @@
+default:
+    suites:
+        inject_userback_widget:
+            contexts:
+                - empressia_sylius_userback.context.ui.shop.inject_widget
+
+            filters:
+                tags: "@inject_userback_widget"
